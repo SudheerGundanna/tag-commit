@@ -1,0 +1,3 @@
+- [x] Feature
+- [ ] Bugfix
+- [ ] Other
